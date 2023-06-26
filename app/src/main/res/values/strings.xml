@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Resume Builder</string>
+    <string name="curriculum"><u>CURRICULUM</u></string>
+    <string name="personal_data"><u>PERSONAL</u><u> DATA</u></string>
+    <string name="university_details"><u>UNIVERSITY DETAILS</u></string>
+    <string name="education_xii"><u>EDUCATION XIIth</u></string>
+    <string name="education_x"><u>EDUCATION Xth</u></string>
+
+</resources>
